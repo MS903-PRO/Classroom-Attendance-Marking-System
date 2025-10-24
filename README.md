@@ -8,4 +8,4 @@
 
 4️Add your images inside Classroom-Attendance-Marking-System/, each in a folder named with the roll number (e.g., Classroom-Attendance-Marking-System/23BCS005/IMG1.PNG) ideally 5 different photos will work.
 
-5️Run the project: python start.py — this opens the main UI for image augmentation and processing.
+5️Run the project: python3 start.py — this opens the main UI for image augmentation and processing.
